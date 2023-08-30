@@ -1,3 +1,5 @@
 Testando git
 
 Adicionando linhas no arquivo txt, para fins de demonstração dos comandos
+
+Terceira alteração
